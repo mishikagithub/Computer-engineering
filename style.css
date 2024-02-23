@@ -1,0 +1,88 @@
+            *margin {}
+            
+            .first img {
+                opacity: 0.76;
+                width: 320vh;
+                height: 620px;
+                top: 24px;
+                color: #000000 45% #000000 60%;
+                -webkit-filter: brightness(20%);
+                filter: brightness(50%);
+            }
+            
+            h1 {
+                color: rgb(255, 253, 253);
+                Width: 220vh;
+                Height: 16.34px;
+                Top: 172px;
+                text-align: left;
+                Left: 200px;
+                Font: IBM Plex Sans;
+                Size: 36px;
+                Line-height: 46.8px;
+            }
+            
+            .carousel-caption p {
+                font-family: IBM Plex Sans;
+                width: 327px;
+                height: 23px;
+                top: 409px;
+            }
+            
+            p {
+                font-family: IBM Plex Sans;
+                width: 327px;
+                /* height: 23px; */
+                top: 409px;
+            }
+            
+            .carousel-caption h5 {
+                text-align: left;
+            }
+            
+            .card-img,
+            .card-img-bottom,
+            .card-img-top {
+                width: 60%;
+            }
+            
+            .card-text h3 {
+                Font: IBM Plex Sans;
+                Size: 22px;
+                Line-height: 29.52px;
+            }
+            
+            .card-text p {
+                width: 652px;
+                top: 975px;
+                left: 220px;
+                color: #5C5C5C;
+            }
+            
+            main {
+                width: 100%;
+                max-width: 400px;
+                padding: 3rem 4rem;
+                margin: auto;
+            }
+            
+            .fa-facebook {
+                position: absolute;
+                transform: translateY(-110%);
+                margin-left: -30px;
+                margin-top: 20px;
+            }
+            
+            .fa-google {
+                position: absolute;
+                transform: translateY(-110%);
+                margin-left: -30px;
+                margin-top: 20px;
+            }
+            
+            .fa-arrow-left {
+                position: absolute;
+                transform: translateY(-110%);
+                margin-top: -33%;
+                margin-left: -60%;
+            }
